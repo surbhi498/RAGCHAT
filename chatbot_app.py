@@ -166,7 +166,7 @@ def display_conversation(history):
 def main():
     st.markdown("<h1 style='text-align: center; color: blue;'>Chat with your PDF 🦜📄 </h1>",
                 unsafe_allow_html=True)
-    st.markdown("<h3 style='text-align: center; color: grey;'>Built by <a href='https://github.com/AIAnytime'>SURBHI SHARMA ❤️ </a></h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center; color: grey;'>Built by <a href='https://github.com/surbhi498/RAG_CHATBOT_WITH_PDF1.git'>SURBHI SHARMA ❤️ </a></h3>", unsafe_allow_html=True)
 
     st.markdown("<h2 style='text-align: center; color:red;'>Upload your PDF 👇</h2>",
                 unsafe_allow_html=True)
